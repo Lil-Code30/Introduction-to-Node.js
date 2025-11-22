@@ -1,5 +1,6 @@
 import http from "node:http";
-import path, { basename } from "node:path";
+import path from "node:path";
+import fs from "node:fs";
 
 const hostname = "127.0.0.1";
 const port = 8001;
@@ -25,6 +26,22 @@ const server = http.createServer((req, res) => {
     extension: path.extname(notes),
     fileName: path.basename(notes, path.extname(notes)),
   };
+
+  // fs.readFile("./users.txt", "utf8", (err, data) => {
+  //   if (err) {
+  //     console.error(err);
+  //     return;
+  //   }
+
+  //   console.log(data);
+  // });
+
+  try {
+    const data = fs.readFileSync("./users.txt", "utf8");
+    console.log(data);
+  } catch (err) {
+    console.log(err);
+  }
 
   res.write(JSON.stringify(notesData));
   res.end();
