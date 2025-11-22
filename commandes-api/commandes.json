@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "base": "vanille",
+    "glacage": "chocolat",
+    "creme": "oui",
+    "cerise": "non",
+    "date": "2025-10-20T14:30:00.000Z",
+    "nom": "Pierre Mar�n",
+    "adresse": "1595 boulevard Alphonse-Desjardins, Lévis"
+  },
+  {
+    "id": 2,
+    "base": "chocolat",
+    "glacage": "vanille",
+    "creme": "non",
+    "cerise": "oui",
+    "date": "2025-10-21T10:15:00.000Z",
+    "nom": "Marie Dupont",
+    "adresse": "12 rue Saint-Paul, Québec"
+  },
+  {
+    "id": 3,
+    "base": "fraise",
+    "glacage": "citron",
+    "creme": "oui",
+    "cerise": "non",
+    "date": "2025-10-22T09:00:00.000Z",
+    "nom": "Luc Martin",
+    "adresse": "230 avenue du Parc, Montréal"
+  },
+  {
+    "id": 4,
+    "base": "vanille",
+    "glacage": "caramel",
+    "creme": "non",
+    "cerise": "non",
+    "date": "2025-10-23T16:45:00.000Z",
+    "nom": "Sophie Tremblay",
+    "adresse": "45 chemin du Roi, Lévis"
+  },
+  {
+    "id": 5,
+    "base": "pistache",
+    "glacage": "chocolat",
+    "creme": "oui",
+    "cerise": "oui",
+    "date": "2025-10-24T12:00:00.000Z",
+    "nom": "Jean-Pierre Roy",
+    "adresse": "78 boulevard René-Lévesque, Québec"
+  },
+  {
+    "id": 6,
+    "base": "vanille",
+    "glacage": "framboise",
+    "creme": "non",
+    "cerise": "non",
+    "date": "2025-10-25T08:30:00.000Z",
+    "nom": "Claire Boucher",
+    "adresse": "101 rue des Érables, Trois-Rivières"
+  },
+  {
+    "id": 7,
+    "base": "citron",
+    "glacage": "vanille",
+    "creme": "oui",
+    "cerise": "non",
+    "date": "2025-10-26T14:00:00.000Z",
+    "nom": "Antoine Lavoie",
+    "adresse": "9 place du Marché, Sherbrooke"
+  },
+  {
+    "id": 8,
+    "base": "chocolat",
+    "glacage": "noisette",
+    "creme": "oui",
+    "cerise": "oui",
+    "date": "2025-10-27T11:20:00.000Z",
+    "nom": "Isabelle Gagnon",
+    "adresse": "256 rue Saint-Joseph, Québec"
+  },
+  {
+    "id": 9,
+    "base": "vanille",
+    "glacage": "chocolat",
+    "creme": "non",
+    "cerise": "non",
+    "date": "2025-10-28T17:10:00.000Z",
+    "nom": "Marc Leclerc",
+    "adresse": "33 boulevard des Forges, Trois-Rivières"
+  },
+  {
+    "id": 10,
+    "base": "framboise",
+    "glacage": "citron",
+    "creme": "oui",
+    "cerise": "oui",
+    "date": "2025-10-29T13:55:00.000Z",
+    "nom": "Julie Moreau",
+    "adresse": "404 avenue Laurier, Montréal"
+  }
+]
