@@ -37,7 +37,9 @@ const server = http.createServer((req, res) => {
   // });
 
   try {
+    const newUser = "theEndGame";
     const data = fs.readFileSync("./users.txt", "utf8");
+    fs.writeFileSync("./users.txt", newUser, { flag: "a+" });
     console.log(data);
   } catch (err) {
     console.log(err);
