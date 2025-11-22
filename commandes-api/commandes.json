@@ -10,16 +10,6 @@
     "adresse": "1595 boulevard Alphonse-Desjardins, Lévis"
   },
   {
-    "id": 2,
-    "base": "chocolat",
-    "glacage": "vanille",
-    "creme": "non",
-    "cerise": "oui",
-    "date": "2025-10-21T10:15:00.000Z",
-    "nom": "Marie Dupont",
-    "adresse": "12 rue Saint-Paul, Québec"
-  },
-  {
     "id": 3,
     "base": "fraise",
     "glacage": "citron",
