@@ -1,0 +1,24 @@
+{
+  "name": "introduction-to-node",
+  "version": "1.0.0",
+  "description": "Introduction to Node.js (LFW111)",
+  "keywords": [
+    "nodejs",
+    "server"
+  ],
+  "homepage": "https://github.com/Lil-Code30/Introduction-to-Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/Lil-Code30/Introduction-to-Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lil-Code30/Introduction-to-Node.js.git"
+  },
+  "license": "MIT",
+  "author": "Loko Ismael",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
